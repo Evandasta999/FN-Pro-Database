@@ -1,0 +1,242 @@
+[
+  {
+    "id": "bugha",
+    "alias": "Bugha",
+    "team": "Sentinels",
+    "country": "US",
+    "avatar": "assets/players/bugha.png",
+    "earnings": 320000,
+    "tournaments": 34,
+    "kd": 2.8,
+    "socials": [
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/bugha"
+      },
+      {
+        "type": "YouTube",
+        "url": "https://www.youtube.com/c/BughaOfficial"
+      }
+    ],
+    "settings": {
+      "Mouse": {
+        "DPI": "800",
+        "Polling Rate": "1000 Hz",
+        "X Sensitivity": "5.0%",
+        "Y Sensitivity": "5.0%",
+        "Targeting": "30.4%",
+        "Scope": "39.4%"
+      },
+      "Keybinds": {
+        "Build Edit": "F",
+        "Wall": "Q",
+        "Floor": "E",
+        "Ramp": "C",
+        "Trap": "T",
+        "Confirm Edit": "Mouse4"
+      },
+      "Graphics": {
+        "Resolution": "1920x1080",
+        "Window Mode": "Fullscreen",
+        "Frame Rate Limit": "Unlimited",
+        "Quality Preset": "Low",
+        "View Distance": "Near",
+        "Shadows": "Off",
+        "VSync": "Off"
+      },
+      "Gear": {
+        "Mouse": "FinalMouse Air58",
+        "Keyboard": "Logitech G Pro X",
+        "Monitor": "BenQ XL2546K",
+        "Headset": "SteelSeries Arctis Pro"
+      }
+    }
+  },
+  {
+    "id": "clix",
+    "alias": "Clix",
+    "team": "NRG",
+    "country": "US",
+    "avatar": "assets/players/clix.png",
+    "earnings": 410000,
+    "tournaments": 45,
+    "kd": 3.4,
+    "socials": [
+      {
+        "type": "Twitch",
+        "url": "https://www.twitch.tv/clix"
+      },
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/clix"
+      }
+    ],
+    "settings": {
+      "Mouse": {
+        "DPI": "800",
+        "Polling Rate": "500 Hz",
+        "X Sensitivity": "8.7%",
+        "Y Sensitivity": "6.3%",
+        "Targeting": "90.9%",
+        "Scope": "82.7%"
+      },
+      "Keybinds": {
+        "Build Edit": "E",
+        "Wall": "Q",
+        "Floor": "X",
+        "Ramp": "Mouse5",
+        "Trap": "G"
+      },
+      "Graphics": {
+        "Resolution": "2560x1440",
+        "Window Mode": "Windowed Fullscreen",
+        "Frame Rate Limit": "240",
+        "Quality Preset": "High",
+        "Shadows": "Off"
+      },
+      "Gear": {
+        "Mouse": "FinalMouse Ultralight X",
+        "Keyboard": "HyperX Alloy",
+        "Monitor": "Samsung Odyssey G7",
+        "Headset": "Astro A40"
+      }
+    }
+  },
+  {
+    "id": "peterbot",
+    "alias": "Peterbot",
+    "team": "Apex",
+    "country": "UK",
+    "avatar": "assets/players/peterbot.png",
+    "earnings": 185000,
+    "tournaments": 20,
+    "kd": 2.3,
+    "socials": [
+      {
+        "type": "YouTube",
+        "url": "https://www.youtube.com/c/Peterbot"
+      },
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/peterbot"
+      }
+    ],
+    "settings": {
+      "Mouse": {
+        "DPI": "800",
+        "Polling Rate": "1000 Hz",
+        "Sensitivity": "0.07",
+        "eDPI": "56"
+      },
+      "Keybinds": {
+        "Build Edit": "F",
+        "Wall": "Q",
+        "Floor": "E",
+        "Ramp": "C",
+        "Confirm Edit": "Mouse4"
+      },
+      "Graphics": {
+        "Resolution": "1720x1080",
+        "Window Mode": "Fullscreen",
+        "Frame Rate Limit": "Unlimited",
+        "Quality Preset": "Low"
+      },
+      "Gear": {
+        "Mouse": "Logitech G Pro",
+        "Keyboard": "Ducky One 2",
+        "Monitor": "BenQ XL2411K",
+        "Headset": "Sennheiser Game One"
+      }
+    }
+  },
+  {
+    "id": "mero",
+    "alias": "Mero",
+    "team": "Nebula",
+    "country": "BR",
+    "avatar": "assets/players/mero.png",
+    "earnings": 92000,
+    "tournaments": 12,
+    "kd": 1.9,
+    "socials": [
+      {
+        "type": "YouTube",
+        "url": "https://www.youtube.com/c/RealMeroFN"
+      },
+      {
+        "type": "Instagram",
+        "url": "https://www.instagram.com/mero"
+      }
+    ],
+    "settings": {
+      "Mouse": {
+        "DPI": "800",
+        "Polling Rate": "1000 Hz",
+        "Sensitivity": "0.09"
+      },
+      "Keybinds": {
+        "Build Edit": "Q",
+        "Wall": "E",
+        "Floor": "F",
+        "Ramp": "C"
+      },
+      "Graphics": {
+        "Resolution": "1920x1080",
+        "Window Mode": "Fullscreen",
+        "Frame Rate Limit": "144",
+        "Quality Preset": "Low"
+      },
+      "Gear": {
+        "Mouse": "Razer Viper",
+        "Keyboard": "Razer Huntsman",
+        "Monitor": "BenQ XL2566K",
+        "Headset": "HyperX Cloud II"
+      }
+    }
+  },
+  {
+    "id": "cented",
+    "alias": "Cented",
+    "team": "Eclipse",
+    "country": "SE",
+    "avatar": "assets/players/cented.png",
+    "earnings": 123000,
+    "tournaments": 18,
+    "kd": 2.05,
+    "socials": [
+      {
+        "type": "Twitch",
+        "url": "https://www.twitch.tv/cented"
+      },
+      {
+        "type": "Twitter",
+        "url": "https://twitter.com/cented"
+      }
+    ],
+    "settings": {
+      "Mouse": {
+        "DPI": "400",
+        "Polling Rate": "1000 Hz",
+        "X Sensitivity": "11%",
+        "Y Sensitivity": "11%"
+      },
+      "Keybinds": {
+        "Build Edit": "F",
+        "Wall": "Q",
+        "Floor": "E",
+        "Ramp": "R"
+      },
+      "Graphics": {
+        "Resolution": "1920x1080",
+        "Quality Preset": "Medium",
+        "Frame Rate Limit": "240"
+      },
+      "Gear": {
+        "Mouse": "Glorious Model O",
+        "Keyboard": "SteelSeries Apex",
+        "Monitor": "ASUS ROG Swift",
+        "Headset": "Beyerdynamic MMX300"
+      }
+    }
+  }
+]
